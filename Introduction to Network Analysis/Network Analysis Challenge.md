@@ -56,6 +56,10 @@ To easily find the SSH password of the Domain Administrator. First, I enter the 
 <img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/d8138a70-a8c1-4bd4-bb95-b065155f1a07">
 </div><br>
 
+## Course Link:
+<div align="center">
+https://www.securityblue.team/courses/network-analysis-training-beginner/
+</div>
 
    
 
