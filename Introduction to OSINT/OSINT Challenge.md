@@ -63,7 +63,7 @@ I go to Google and search for the username '@sp1ritfyre' and I see a Blogger lin
 <div align= "center">
   <img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/be2aabdf-f5ed-471e-bb7f-bf637a924dc5">
 </div><br>
-I see information about the email and location, but the location is showing random letters and numbers, so I decide to check the email first. I go to inspect the email tag to see what the email is, and it's still too early to tell, but the email is 'd1ved33p@gmail.com'. <br><br>
+I see information about the email and location, but the location is showing random letters and numbers. So, I decide to check the email first. When I go to inspect the email tag, I see that the email is 'd1ved33p@gmail.com'.<br><br>
 <div align= "center">
   <img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/da52c304-edef-4741-a470-74c60d62f66d">
 </div><br>
