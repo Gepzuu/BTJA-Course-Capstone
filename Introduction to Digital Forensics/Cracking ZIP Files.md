@@ -57,5 +57,10 @@ After typing the command, the password was found to be 'FRIENDSHIPSTARS'. <br>
 
 Using the password 'FRIENDSHIPSTARS', I unzipped the 'DictionaryAttack.zip' file and found a secret code inside: '91MD0QL11'. <br><br>
 
+## NOTE:
+<div align="center">
+This is for educational purposes only <br>
+</div>
+
 
 
