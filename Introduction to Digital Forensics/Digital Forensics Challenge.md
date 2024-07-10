@@ -7,3 +7,41 @@ The SOC has received an anonymous report that a user is potentially exfiltrating
 Linux <br>
 steghide <br>
 fcrackzip <br>
+
+## Practical Challenge Questions:
+1. [Evidence 1/4] What is the name of the file where the evidence was found? <br>
+2. [Evidence 1/4] What is the name of the directory your in where this evidence was found? <br>
+3. [Evidence 1/4] What piece of evidence have you found? <br>
+4. [Evidence 2/4] What is the name of the file where the evidence was found? <br>
+5. [Evidence 2/4] What is the name of the directory your in where this evidence was found? <br>
+6. [Evidence 2/4] What piece of evidence have you found? <br>
+7. [Evidence 3/4] What is the name of the file where the evidence was found? <br>
+8. [Evidence 3/4] What is the name of the directory your in where this evidence was found? <br>
+9. [Evidence 3/4] What piece of evidence have you found? <br>
+10. [Evidence 4/4] What is the name of the file where the evidence was found? (filename and extension) <br>
+11. [Evidence 4/4] What is the name of the directory your in where this evidence was found? <br>
+12. [Evidence 4/4] What piece of evidence have you found? <br><br>
+
+## Answers:
+1. a0415ns.zip <br>
+2. /to-do/ <br>
+3. Employee information <br>
+4. laptop.jpg <br>
+5. /Images/ <br>
+6. List of employee passwords <br>
+7. posidon.xml <br>
+8. /Week 10/ <br>
+9. Office locations <br>
+10. bootstrap.min.abc <br>
+11. /css/ <br>
+12. Colin information <br>
+
+
+
+
+
+
+
+
+
+
