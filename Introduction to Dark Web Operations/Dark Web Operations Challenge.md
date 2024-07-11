@@ -31,6 +31,7 @@ Brave Browser Tor <br>
 Linux <br><br>
 
 ## Answers:
+
 1. Username: KF7ybuD1 | Password: AIyhfot0V9VIWm6W <br>
 2. Darkchest984 <br>
 3. Kestner Richard <br>
@@ -40,9 +41,11 @@ Linux <br><br>
 7. Hexadecimal <br>
 8. 31/10/20XX <br>
 9. 51° 56' 57.2"N 1° 19' 26.1"E <br>
- 10. Felixstowe <br>
+10. Felixstowe <br><br>
 
-
+<div align="center">
+<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/a7f294f3-a7b7-4356-a3d8-4496b9d8830a">
+</div>
 
 
 
