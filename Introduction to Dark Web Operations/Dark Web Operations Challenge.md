@@ -10,8 +10,7 @@ We need you to find evidence that will allow us to identify this subject, relate
 2] Find evidence that the individual is involved in drug trafficking.<br>
 3] Find any information about the next shipment that is coming in, so we can seize it.<br>
 
-
- Known Info:			      
+Known Info:			      
 DWebsite:  5xdv6dqxv2bsbmlgttsq3ma3nw6ffa2zhqbl7o4w46p32wsqulzrtsqd.onion
 
 ## Requested Info:
@@ -30,6 +29,23 @@ DWebsite:  5xdv6dqxv2bsbmlgttsq3ma3nw6ffa2zhqbl7o4w46p32wsqulzrtsqd.onion
 ## Tools Used:
 Brave Browser Tor <br>
 Linux <br><br>
+
+## Answers:
+1. Username: KF7ybuD1 | Password: AIyhfot0V9VIWm6W <br>
+2. Darkchest984 <br>
+3. Kestner Richard <br>
+4. UK <br>
+5. 26/11/20XX <br>
+6. 26/10/20XX <br>
+7. Hexadecimal <br>
+8. 31/10/20XX <br>
+9. 51° 56' 57.2"N 1° 19' 26.1"E <br>
+ 10. Felixstowe <br>
+
+
+
+
+
 
 
 
