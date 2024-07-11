@@ -34,14 +34,11 @@ fcrackzip <br>
 9. Office locations <br>
 10. bootstrap.min.abc <br>
 11. /css/ <br>
-12. Colin information <br>
+12. Colin information <br><br>
 
-
-
-
-
-
-
-
+This is the files that I received from this challenge <br><br>
+<div align="center">
+  
+</div>
 
 
