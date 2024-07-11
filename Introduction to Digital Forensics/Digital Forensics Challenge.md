@@ -36,9 +36,17 @@ fcrackzip <br>
 11. /css/ <br>
 12. Colin information <br><br>
 
-This is the files that I received from this challenge <br><br>
+
 <div align="center">
-  
+<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/828e1bce-8b1a-46a6-9e54-bfb4c5381dcf">
 </div>
+<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/8089a6ec-aee1-4708-bdf0-c9f0c8ce2491">
+<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/8ef5a55c-d974-4834-86cc-929c08ac18a1">
+<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/8089a6ec-aee1-4708-bdf0-c9f0c8ce2491">
+<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/8089a6ec-aee1-4708-bdf0-c9f0c8ce2491">
+
+
+
+
 
 
