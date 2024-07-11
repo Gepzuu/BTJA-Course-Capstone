@@ -22,7 +22,9 @@ fcrackzip <br>
 11. [Evidence 4/4] What is the name of the directory your in where this evidence was found? <br>
 12. [Evidence 4/4] What piece of evidence have you found? <br><br>
 
+
 ## Answers:
+
 1. a0415ns.zip <br>
 2. /to-do/ <br>
 3. Employee information <br>
@@ -38,12 +40,17 @@ fcrackzip <br>
 
 
 <div align="center">
-<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/828e1bce-8b1a-46a6-9e54-bfb4c5381dcf">
-</div>
-<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/8089a6ec-aee1-4708-bdf0-c9f0c8ce2491">
-<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/8ef5a55c-d974-4834-86cc-929c08ac18a1">
-<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/8089a6ec-aee1-4708-bdf0-c9f0c8ce2491">
-<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/8089a6ec-aee1-4708-bdf0-c9f0c8ce2491">
+<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/828e1bce-8b1a-46a6-9e54-bfb4c5381dcf"><br><br>
+<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/874ddf24-df80-4171-a324-27bd4202c464"><br><br>
+<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/bd2637fb-941c-4cc3-9953-254c91621b3b"><br><br>
+<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/eb6bce8c-2c8a-4299-bf24-e9528295e166"><br><br>
+<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/826f19ce-1656-4803-a514-38eba3d8d72b"><br><br>
+<img src="https://github.com/Gepzuu/BTJA-Course-Capstone/assets/92858147/a227e9c1-5317-43c8-8b0e-20f633a6c833"><br><br>
+</div><br><br>
+
+
+
+
 
 
 
