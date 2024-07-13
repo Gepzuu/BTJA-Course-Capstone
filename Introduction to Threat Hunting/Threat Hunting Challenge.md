@@ -16,7 +16,7 @@ You are a Junior Threat Hunter working for an organisation. Your Threat Intellig
 3. True
 4. 0c4374d72e166f15acdfe44e9398d026
 
-## Course Link
+## Course Link:
 <div align="center">
 https://www.securityblue.team/courses/introduction-to-threat-hunting/
 </div>
