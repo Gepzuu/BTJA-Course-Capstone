@@ -48,6 +48,12 @@ Linux <br><br>
 </div>
 
 
+## Course Link:
+<div align="center">
+https://www.securityblue.team/courses/introduction-to-darkweb-operations/
+</div>
+
+
 
 
 
