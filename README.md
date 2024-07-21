@@ -4,14 +4,6 @@
 I recently completed Security Blue Team's "Blue Team Junior Analyst" pathway, which consists of 6 entry-level courses: <br><br>
 
 
-
-Introduction to Digital Forensics <br>
-Introduction to Network Analysis <br>
-Introduction to Vulnerability Management <br>
-Introduction to Threat Hunting <br>
-Introduction to Dark Web Operations <br>
-Introduction to Open-Source Intelligence (OSINT) <br><br> 
-
 Check out Security Blue Team's website to get started with these courses. https://www.securityblue.team/
 
 I would like to take this opportunity to thank Security Blue Team for providing me with this valuable learning experience. The courses were well-structured and informative, and I gained a solid foundation in each of the topics covered.
